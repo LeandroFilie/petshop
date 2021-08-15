@@ -1,0 +1,60 @@
+footer {
+    position: fixed;
+    height: 50px;
+    background-color:#ebebe4;
+    padding:15px;
+    text-align:center;
+    font-weight:bold;
+    bottom: 0;
+    width: 100%;
+}
+div{
+    padding-top:10px;
+}
+
+a:link {
+    color: black;
+    font-weight:bold;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+    font-weight:bold;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: gray;
+    font-weight:bold;
+  }
+
+  a.menu:hover {
+    color: green;
+    font-weight:bold;
+  }
+  
+  /* selected link */
+  a:active {
+    color: gray;
+    font-weight:bold;
+  }
+
+  li{
+    color: black;
+      margin-left:20px;
+  }
+
+  img{
+    width: 150px;
+    height: 150px;
+  }
+
+  main{
+    margin-bottom: 5%;
+  }
+
+  #erro{
+    margin: 10px;
+    text-align: center;
+  }

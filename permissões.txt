@@ -1,0 +1,13 @@
+Não Logado/Convidado
+-Se cadastrar (como cliente)
+-Logar
+
+Admin - nivel 1 de permissão
+- cadastrar espécies, raças, clientes, animais e agendamento
+- listar alterar e remover espécies, raças, clientes, animais e agendamento
+
+Autenticado
+- cadastrar seu proprio animal
+- fazer agendamento para seus proprios animais
+- visualizar e alterar seus dados
+- visualizar, alterar e remover seus animais e agendamentos
