@@ -9,7 +9,11 @@ function cabecalho(){
     <html>
         <head>
             <meta charset='utf-8' />
+<<<<<<< HEAD
             <link rel=\"icon\" type=\"image/png\" href=\"/./img/logotipo.png\"/>
+=======
+            <link rel=\"icon\" type=\"image/png\" href=\"/logotipo.png\"/>
+>>>>>>> 42036429c2862790d6a74c1e9ff0c9bedbd746a3
             <script src='js/jquery-3.5.1.min.js'></script>
             <script src='js/moment.js'></script>
             <script src='js/md5.js'></script>";
