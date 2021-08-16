@@ -92,9 +92,9 @@ CREATE TABLE IF NOT EXISTS `cliente` (
 --
 
 INSERT INTO `cliente` (`id_cliente`, `nome`, `cpf`, `telefone`, `email`) VALUES
-(18, 'Leandro Gomes Filié', '48476594810', '16997279100', 'leandro.gf03@gmail.com'),
-(19, 'Julia Costa', '11111111111', '16997489630', 'julia@email.com'),
-(20, 'Jose', '22222222222', '1699999998', 'jose@email.com');
+(18, 'Leandro Gomes', '33333333333', '16999999999', 'leandro@email.com'),
+(19, 'Julia Costa', '11111111111', '16999999998', 'julia@email.com'),
+(20, 'Jose', '22222222222', '1699999997', 'jose@email.com');
 
 -- --------------------------------------------------------
 
@@ -170,7 +170,7 @@ INSERT INTO `usuario` (`id_usuario`, `email`, `senha`, `permissao`) VALUES
 ('1', 'admin@sistema.com', '827ccb0eea8a706c4c34a16891f84e7b', 1),
 ('11111111111', 'julia@email.com', '827ccb0eea8a706c4c34a16891f84e7b', 2),
 ('22222222222', 'jose@email.com', '827ccb0eea8a706c4c34a16891f84e7b', 2),
-('48476594810', 'leandro.gf03@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 2);
+('33333333333', 'leandro.gf03@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 2);
 
 --
 -- Constraints for dumped tables
